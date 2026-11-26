@@ -1,0 +1,6 @@
+{
+  "name": "ADIDAS — Impossible Is Nothing | 3D Brand Universe",
+  "description": "An interactive 3D digital brand experience, footwear showroom, real-time sneaker configurator, and editorial product universe inspired by Adidas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
